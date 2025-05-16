@@ -41,7 +41,7 @@ const PatientDeatils = () => {
                         <div style={{ width: "200px", fontFamily: "poppins" }}>: 85kg</div>
                     </div>
                     <br />
-                    <a href="https://preeminent-fenglisu-2d76fe.netlify.app/localbasic?upload=true&files=https://raw.githubusercontent.com/gokulmzadroit/newFile/refs/heads/main/1.2.276.0.7230010.3.1.4.314966784.12766.1562182872.257051,https://raw.githubusercontent.com/gokulmzadroit/newFile/refs/heads/main/1.2.276.0.7230010.3.1.4.314966784.12766.1562182872.257047" target="_blank" style={{ width: "200px", fontSize: "14px", color: "#fff", fontFamily: "Poppins", backgroundColor: "#000", padding: "10px 20px", borderRadius: "10px", cursor: "pointer", display: "flex", justifyContent: "center", alignItems: "center" }} onClick={() => { navigate('/patientdeatils') }}>View DICOM File</a>
+                    <a href="https://iridescent-travesseiro-55a5cb.netlify.app/localbasic?upload=true&folder=true&files=https://raw.githubusercontent.com/gokulmzadroit/newFile/refs/heads/main/Circle%20of%20Willis.zip" target="_blank" style={{ width: "200px", fontSize: "14px", color: "#fff", fontFamily: "Poppins", backgroundColor: "#000", padding: "10px 20px", borderRadius: "10px", cursor: "pointer", display: "flex", justifyContent: "center", alignItems: "center" }} onClick={() => { navigate('/patientdeatils') }}>View DICOM File</a>
                 </div>
             </div>
         </div>
